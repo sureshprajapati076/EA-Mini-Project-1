@@ -6,7 +6,7 @@ This project uses JWT authentication to know who the use is. While running app y
 ## Installation
 
 Download zip file attached and extract it. You will find two folders inside MiniProject folder.
-Client and Server.
+Client and Server. You will find CSV file inside /server/src/main/resources/users.scv
 
 Open terminal. change directory to MiniProject.
 
@@ -18,10 +18,9 @@ docker-compose up #docker must be installed on your machine
 ```
 You will find client server running on localhost:4200
 
-Next step: go to server folder
+Next step: Open new terminal and go to server folder
 
 ```bash
-cd ..
 cd server
 mvn clean # requires maven installed on your machine
 mvn install  #creates jar file
