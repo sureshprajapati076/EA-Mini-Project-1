@@ -18,7 +18,7 @@ docker-compose up #docker must be installed on your machine
 ```
 You will find client server running on localhost:4200
 
-Next step: Open new terminal go to server folder
+Next step: Open new terminal and go to server folder
 
 ```bash
 cd server
