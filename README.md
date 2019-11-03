@@ -1,6 +1,7 @@
 # EA-Mini-Project-1
 
 This project has two parts server (spring boot) and client (angular). Please follow following instructions.
+This project uses JWT authentication to know who the use is. While running app you can see network tab of chrome to see where the request is forwarded to. Angular for UI.
 
 ## Installation
 
@@ -42,6 +43,13 @@ docker-compose up
 If maven is not installed on your machine you can download my full project on following link, it has necessary jar file inside target folder.
 
 link to github: [https://github.com/sureshprajapati076/EA-Mini-Project-1](https://github.com/sureshprajapati076/EA-Mini-Project-1) 
+
+## Running App
+go to http://localhost:4200
+sign up for two users with different role ADMIN and USER
+log in with account and follow on screen instructions
+Only ADMIN can perform batch job
+USER OR ADMIN both can view list of added student records
 
 
 ## Author
