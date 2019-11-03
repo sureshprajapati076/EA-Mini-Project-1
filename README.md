@@ -48,7 +48,8 @@ link to github: [https://github.com/sureshprajapati076/EA-Mini-Project-1](https:
 go to http://localhost:4200
 sign up for two users with different role ADMIN and USER
 log in with account and follow on screen instructions
-Only ADMIN can perform batch job
+Only ADMIN can perform batch job.
+
 USER OR ADMIN both can view list of added student records
 
 
