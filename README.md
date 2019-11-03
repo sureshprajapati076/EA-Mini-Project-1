@@ -6,7 +6,7 @@ This project uses JWT authentication to know who the use is. While running app y
 ## Installation
 
 Download zip file attached and extract it. You will find two folders inside MiniProject folder.
-Client and Server.
+Client and Server. You will find CSV file inside /server/src/main/resources/users.scv
 
 Open terminal. change directory to MiniProject.
 
