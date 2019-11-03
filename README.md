@@ -12,7 +12,7 @@ Open terminal. change directory to MiniProject.
 Now go to client folder and run following command inside client folder.
 
 ```bash
-docker-compose up
+docker-compose up #docker must be installed on your machine
 
 ```
 You will find client server running on localhost:4200
